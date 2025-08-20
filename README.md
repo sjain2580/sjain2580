@@ -1,4 +1,3 @@
-sjain2580/ README.md
 # Hi, I'm Sakshi Jain
 
 **Software Engineer | Python | DevOps | AI Explorer | Test Automation Expert**  
