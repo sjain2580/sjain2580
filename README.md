@@ -1,11 +1,11 @@
 # Hi, I'm Sakshi Jain
 
-**Software Engineer | Python | DevOps | AI Explorer | Test Automation Expert**  
-**Open to opportunities in Automotive & AI/ML domains**
+ 👩‍💻**Software Engineer | Python | DevOps | AI Explorer | Test Automation Expert**  
+    **Open to opportunities in Automotive & AI/ML domains**
 
 ---
 
-## About Me
+## 🌟 About Me
 
 - Experienced in **Python, SQL, and Test Automation**  
 - Exploring **Artificial Intelligence, Machine Learning, and Cloud Technologies**  
@@ -14,7 +14,7 @@
 
 ---
 
-## What I'm Working On  
+## 🔥 What I'm Working On  
 
 - Enhancing my **AI & Machine Learning skills**  
 - Diving into **Cloud & DevOps tools (Docker, GitHub Actions, Jenkins, AWS, GCP)**  
