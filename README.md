@@ -52,9 +52,9 @@
     ![VirtualBox](https://img.shields.io/badge/-VirtualBox-203768?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 * **Project Management**:
-    JAMA
+    ![JAMA](https://img.shields.io/badge/-JAMA-FF0000?style=for-the-badge&logoColor=white)
     ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-    HP QC Test Management
+    ![HP QC Test Management](https://img.shields.io/badge/-HP%20QC-6A3382?style=for-the-badge&logoColor=white)
 
 * **IDE & Development Tools**:
     ![Eclipse IDE](https://img.shields.io/badge/-Eclipse%20IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
@@ -65,7 +65,7 @@
 
 * **Version Control & CI/CD**:
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-    GitExtension
+    ![GitExtension](https://img.shields.io/badge/-GitExtension-F05033?style=for-the-badge&logoColor=white)
     ![Gerrit](https://img.shields.io/badge/-Gerrit-66538D?style=for-the-badge&logo=gerrit&logoColor=white)
     ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
     ![Jenkins](https://img.shields.io/badge/-Jenkins-D33833?style=for-the-badge&logo=jenkins&logoColor=white)  
